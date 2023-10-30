@@ -1,2 +1,2 @@
 # JoyLearns
-Mostly LeetCode's Medium to High-level challenges, algorithms, and system design.
+Mostly LeetCode Medium to High-level questions, algorithms, and system design.
